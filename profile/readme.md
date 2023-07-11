@@ -17,9 +17,9 @@ Firecamp is a DX-first API development platform that helps developers design, de
 
 
 
-## Useful Links
+## Useful Resources
 
-Explore the following useful links to access Firecamp's web application, learn more about Firecamp, and connect with the Firecamp community:
+Explore the following useful resources to access Firecamp's web application, learn more about Firecamp, and connect with the Firecamp community:
 
 |                     |                     |                     |
 |---------------------|---------------------|---------------------|
